@@ -1,0 +1,10 @@
+{
+  "name": "ToDoApp",
+  "description": "To-Do list application",
+  "author": {
+    "name": "Abylai",
+    "email": "amirbekabylai04@gmail.com"
+  },
+  "version": "1.0.0",
+  "frontend:dir": "frontend"
+}
